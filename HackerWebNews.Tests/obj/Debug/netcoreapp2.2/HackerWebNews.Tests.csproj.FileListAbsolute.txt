@@ -1,0 +1,14 @@
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\bin\Debug\netcoreapp2.2\HackerWebNews.Tests.deps.json
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\bin\Debug\netcoreapp2.2\HackerWebNews.Tests.runtimeconfig.json
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\bin\Debug\netcoreapp2.2\HackerWebNews.Tests.runtimeconfig.dev.json
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\bin\Debug\netcoreapp2.2\HackerWebNews.Tests.dll
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\bin\Debug\netcoreapp2.2\HackerWebNews.Tests.pdb
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\obj\Debug\netcoreapp2.2\HackerWebNews.Tests.csprojAssemblyReference.cache
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\obj\Debug\netcoreapp2.2\HackerWebNews.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\obj\Debug\netcoreapp2.2\HackerWebNews.Tests.AssemblyInfoInputs.cache
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\obj\Debug\netcoreapp2.2\HackerWebNews.Tests.AssemblyInfo.cs
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\obj\Debug\netcoreapp2.2\HackerWebNews.Tests.dll
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews.Tests\obj\Debug\netcoreapp2.2\HackerWebNews.Tests.pdb

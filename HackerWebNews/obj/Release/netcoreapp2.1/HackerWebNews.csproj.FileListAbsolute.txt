@@ -1,0 +1,15 @@
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\bin\Release\netcoreapp2.1\HackerWebNews.deps.json
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\bin\Release\netcoreapp2.1\HackerWebNews.runtimeconfig.json
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\bin\Release\netcoreapp2.1\HackerWebNews.runtimeconfig.dev.json
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\bin\Release\netcoreapp2.1\HackerWebNews.dll
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\bin\Release\netcoreapp2.1\HackerWebNews.pdb
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.csprojAssemblyReference.cache
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.csproj.CoreCompileInputs.cache
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.RazorAssemblyInfo.cache
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.RazorAssemblyInfo.cs
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.AssemblyInfoInputs.cache
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.AssemblyInfo.cs
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.RazorTargetAssemblyInfo.cache
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.dll
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\HackerWebNews.pdb
+C:\Users\mmcgo\source\repos\HackerWebNews\HackerWebNews\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
